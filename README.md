@@ -80,19 +80,19 @@ The app focuses on:
 
 ### Cover
 
-![Cover](assets/cover.png)
+<img src="assets/cover.png" width="900"/>
 
 ### Mid-Fidelity Wireframes
 
-![Mid Homepage](assets/mid-homepage.png)
+<img src="assets/mid-homepage.png" width="250"/>
 
-![Mid Journey](assets/mid-journey.png)
+<img src="assets/mid-journey.png" width="250"/>
 
 ### High-Fidelity Screens
 
-![High Homepage](assets/high-homepage.png)
+<img src="assets/high-homepage.png" width="250"/>
 
-![High Search](assets/high-search.png)
+<img src="assets/high-search.png" width="250"/>
 
 ---
 
